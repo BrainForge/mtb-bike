@@ -12,6 +12,7 @@ import com.badlogic.gdx.physics.box2d.BodyDef.BodyType;
 
 public class Wheel extends Sprite
 {
+	private Body wheel;
 	
 	public Wheel(int x, int y, PhysicsWorld pPhysicsWorld)
 	{
@@ -19,12 +20,17 @@ public class Wheel extends Sprite
 		
 		if(pPhysicsWorld != null)
 		{
-			Body wheel = PhysicsFactory.createCircleBody(pPhysicsWorld,this, BodyType.DynamicBody, Const.CIRCLE_FIXTURE);
+			wheel = PhysicsFactory.createCircleBody(pPhysicsWorld,this, BodyType.DynamicBody, Const.CIRCLE_FIXTURE);
 			
 			pPhysicsWorld.registerPhysicsConnector(
 					new PhysicsConnector(this, wheel, true, true));
 		}
 		
+	}
+	
+	public Body getBody()
+	{
+		return wheel;
 	}
 
 }
