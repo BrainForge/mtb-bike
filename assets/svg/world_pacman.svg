@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="800" height="480" id="svg3021" version="1.1" inkscape:version="0.48.0 r9654" sodipodi:docname="world_pacman.svg" style="enable-background:new">
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1.4686916" inkscape:cx="466.84589" inkscape:cy="244.15015" inkscape:document-units="px" inkscape:current-layer="layer2" showgrid="true" inkscape:window-width="1770" inkscape:window-height="1139" inkscape:window-x="-9" inkscape:window-y="27" inkscape:window-maximized="1" showborder="true" inkscape:showpageshadow="false">
+    <inkscape:grid type="xygrid" id="grid3810" />
+  </sodipodi:namedview>
+  <defs id="defs3023">
+    <linearGradient id="linearGradient3805" inkscape:collect="always">
+      <stop id="stop3807" offset="0" style="stop-color:#feff00;stop-opacity:1;" />
+      <stop id="stop3809" offset="1" style="stop-color:#feff00;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" y2="351.68091" x2="624.98697" y1="351.68091" x1="527.46492" id="linearGradient3811" xlink:href="#linearGradient3805" inkscape:collect="always" />
+  </defs>
+  <metadata id="metadata3026">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g style="display:inline" inkscape:label="Box" id="layer4" inkscape:groupmode="layer">
+    <rect y="0" x="0" height="480" width="800" id="BG" style="fill:#f9f9f9;fill-opacity:1;stroke:none" andengine-spritesrc="gfx/std_bg.png" andengine-hasshape="true" />
+    <rect andengine-bodytype="0" andengine-friction="0.300000011921" andengine-elasticity="0.300000011921" andengine-density="1.0" y="0" x="0" height="480" width="2" id="rect_left" style="fill:#ff0000;fill-opacity:1;stroke:none" andengine-physic="true" />
+    <rect andengine-bodytype="0" andengine-friction="0.300000011921" andengine-elasticity="0.300000011921" andengine-density="1.0" y="0" x="798" height="480" width="2" id="rect_right" style="fill:#ff0000;fill-opacity:1;stroke:none" andengine-physic="true" />
+    <rect andengine-bodytype="0" andengine-friction="0.300000011921" andengine-elasticity="0.300000011921" andengine-density="1.0" y="0" x="0" height="2" width="800" id="rect_top" style="fill:#ff0000;fill-opacity:1;stroke:none" andengine-physic="true" />
+    <rect andengine-bodytype="0" andengine-friction="0.300000011921" andengine-elasticity="0.300000011921" andengine-density="1.0" y="478" x="0" height="2" width="800" id="rect_buttom" style="fill:#ff0000;fill-opacity:1;stroke:none" andengine-physic="true" />
+  </g>
+  <g style="display:inline" inkscape:label="Static" id="layer2" inkscape:groupmode="layer">
+    <path transform="matrix(0.64911568,0.76068972,-0.76068972,0.64911568,151.32733,-39.890081)" andengine-animation-duration="3000,30,50,30" andengine-animation-endtile="3" andengine-animation-starttile="0" andengine-has-animation="true" andengine-tilerows="1" andengine-tilecols="4" andengine-spritetype="2" andengine-spritesrc="gfx/PacMan_tiled.png" sodipodi:type="arc" style="fill:#ffaaaa;fill-opacity:0.5;stroke:#0000ff" id="PacMan" sodipodi:cx="225.03023" sodipodi:cy="167.47693" sodipodi:rx="40.512249" sodipodi:ry="39.490932" d="m 260.84823,185.92889 a 40.512249,39.490932 0 1 1 -6.33712,-45.53849 l -29.48088,27.08653 z" sodipodi:start="0.48617268" sodipodi:end="5.5273561" andengine-curvesegments="10" andengine-density="1.0" andengine-elasticity="0.300000011921" andengine-friction="0.300000011921" andengine-bodytype="0" andengine-hasshape="true" andengine-physic="true" andengine-drawprimitives="True" />
+    <path andengine-drawprimitives="True" transform="matrix(-1.4372828,-0.17433597,0.17433597,-1.4372828,775.5935,537.2174)" andengine-hasshape="true" andengine-spritesrc="gfx/PacMan.png" andengine-updateposition="False" andengine-fixedrotation="True" sodipodi:type="arc" style="fill:#ffaaaa;fill-opacity:0.5;stroke:#0000ff;display:inline;enable-background:new" id="PacMan2" sodipodi:cx="225.03023" sodipodi:cy="167.47693" sodipodi:rx="40.512249" sodipodi:ry="39.490932" d="m 260.84823,185.92889 a 40.512249,39.490932 0 1 1 -6.33712,-45.53849 l -29.48088,27.08653 z" sodipodi:start="0.48617268" sodipodi:end="5.5273561" andengine-density="1.0" andengine-elasticity="0.300000011921" andengine-friction="0.300000011921" andengine-bodytype="1" andengine-physic="true" andengine-angularvelocity="-2" />
+    <path transform="translate(94.969772,72.523071)" andengine-curvesegments="10" andengine-drawprimitives="True" andengine-hasshape="true" andengine-spritesrc="gfx/PacMan.png" andengine-updateposition="False" andengine-fixedrotation="True" sodipodi:type="arc" style="fill:#ffaaaa;fill-opacity:0.5;stroke:#0000ff;display:inline;enable-background:new" id="PacMan4" sodipodi:cx="225.03023" sodipodi:cy="167.47693" sodipodi:rx="40.512249" sodipodi:ry="39.490932" d="m 260.84823,185.92889 a 40.512249,39.490932 0 1 1 -6.33712,-45.53849 l -29.48088,27.08653 z" sodipodi:start="0.48617268" sodipodi:end="5.5273561" andengine-density="1.0" andengine-elasticity="0.300000011921" andengine-friction="0.300000011921" andengine-bodytype="1" andengine-physic="true" andengine-angularvelocity="2" />
+    <path transform="matrix(-1.1947911,0.72088069,-0.72088069,-1.1947911,1011.1267,292.46497)" andengine-animation-duration="3000,30,50,30" andengine-animation-endtile="3" andengine-animation-starttile="0" andengine-has-animation="true" andengine-tilerows="1" andengine-tilecols="4" andengine-spritetype="2" andengine-spritesrc="gfx/PacMan_tiled.png" sodipodi:type="arc" style="fill:#ffaaaa;fill-opacity:0.5;stroke:#0000ff;display:inline;enable-background:new" id="PacMan3" sodipodi:cx="225.03023" sodipodi:cy="167.47693" sodipodi:rx="40.512249" sodipodi:ry="39.490932" d="m 260.84823,185.92889 a 40.512249,39.490932 0 1 1 -6.33712,-45.53849 l -29.48088,27.08653 z" sodipodi:start="0.48617268" sodipodi:end="5.5273561" andengine-curvesegments="10" andengine-density="1.0" andengine-elasticity="0.300000011921" andengine-friction="0.300000011921" andengine-bodytype="0" andengine-hasshape="true" andengine-physic="true" andengine-drawprimitives="True" />
+  </g>
+  <g style="display:inline" inkscape:label="Dynamic" id="layer3" inkscape:groupmode="layer">
+    <circle andengine-spritesrc="gfx/ball.png" sodipodi:ry="10" sodipodi:rx="10" sodipodi:cy="20" sodipodi:cx="20" r="10" cy="20" cx="20" id="Ball" style="fill:#f30b00;fill-opacity:1;stroke:#00ff00" andengine-density="1.0" andengine-elasticity="0.300000011921" andengine-friction="0.300000011921" andengine-bodytype="2" andengine-hasshape="true" andengine-physic="true" />
+  </g>
+</svg>

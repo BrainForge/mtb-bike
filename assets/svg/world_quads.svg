@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="800" height="480" id="svg3021" version="1.1" inkscape:version="0.48.0 r9654" sodipodi:docname="world_simple.svg" style="enable-background:new">
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1.4686916" inkscape:cx="365.8114" inkscape:cy="244.15015" inkscape:document-units="px" inkscape:current-layer="layer2" showgrid="true" inkscape:window-width="1770" inkscape:window-height="1139" inkscape:window-x="-9" inkscape:window-y="27" inkscape:window-maximized="1" showborder="true" inkscape:showpageshadow="false">
+    <inkscape:grid id="grid3810" type="xygrid" />
+  </sodipodi:namedview>
+  <defs id="defs3023">
+    <linearGradient inkscape:collect="always" id="linearGradient3805">
+      <stop style="stop-color:#feff00;stop-opacity:1;" offset="0" id="stop3807" />
+      <stop style="stop-color:#feff00;stop-opacity:0;" offset="1" id="stop3809" />
+    </linearGradient>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient3805" id="linearGradient3811" x1="527.46492" y1="351.68091" x2="624.98697" y2="351.68091" gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata id="metadata3026">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode="layer" id="layer4" inkscape:label="Box" style="display:inline">
+    <rect andengine-hasshape="true" andengine-spritesrc="gfx/std_bg.png" style="fill:#f9f9f9;fill-opacity:1;stroke:none" id="BG" width="800" height="480" x="0" y="0" />
+    <rect andengine-physic="true" style="fill:#ff0000;fill-opacity:1;stroke:none" id="rect_left" width="2" height="480" x="0" y="0" andengine-density="1.0" andengine-elasticity="0.300000011921" andengine-friction="0.300000011921" andengine-bodytype="0" />
+    <rect andengine-physic="true" style="fill:#ff0000;fill-opacity:1;stroke:none" id="rect_right" width="2" height="480" x="798" y="0" andengine-density="1.0" andengine-elasticity="0.300000011921" andengine-friction="0.300000011921" andengine-bodytype="0" />
+    <rect andengine-physic="true" style="fill:#ff0000;fill-opacity:1;stroke:none" id="rect_top" width="800" height="2" x="0" y="0" andengine-density="1.0" andengine-elasticity="0.300000011921" andengine-friction="0.300000011921" andengine-bodytype="0" />
+    <rect andengine-physic="true" style="fill:#ff0000;fill-opacity:1;stroke:none" id="rect_buttom" width="800" height="2" x="0" y="478" andengine-density="1.0" andengine-elasticity="0.300000011921" andengine-friction="0.300000011921" andengine-bodytype="0" />
+  </g>
+  <g inkscape:groupmode="layer" id="layer2" inkscape:label="Static" style="display:inline">
+    <rect andengine-physic="true" andengine-drawprimitives="true" andengine-bodytype="0" andengine-friction="0.300000011921" andengine-elasticity="0.8" andengine-density="1.0" style="fill:#ff9e01;fill-opacity:0.50980395;stroke:#1a00fe;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.50980395000000001;stroke-dasharray:none;display:inline;enable-background:new" id="Rect" width="94.813103" height="81.268372" x="244.12436" y="127.93761" transform="matrix(0.80202734,0.59728732,-0.59728732,0.80202734,0,0)" />
+    <rect andengine-physic="true" andengine-drawprimitives="true" andengine-bodytype="0" andengine-friction="0.300000011921" andengine-elasticity="0.5" andengine-density="1.0" style="fill:#feff01;fill-opacity:0.19607843000000000;stroke:#fe00fa;stroke-width:5;stroke-miterlimit:4;stroke-opacity:0.19607843;stroke-dasharray:none;display:inline;enable-background:new" id="Rect-1" width="94.813103" height="81.268372" x="546.14331" y="323.14429" transform="matrix(0.9801397,-0.19830825,0.19830825,0.9801397,0,0)" />
+    <rect andengine-physic="true" andengine-drawprimitives="true" andengine-bodytype="0" andengine-friction="0.300000011921" andengine-elasticity="0.300000011921" andengine-density="1.0" style="fill:#ff0000;fill-opacity:1;stroke:#00fefc;stroke-width:1.00000513;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new" id="Rect-1-9" width="181.12938" height="81.269524" x="321.61636" y="357.87799" transform="matrix(0.99999853,0.00171275,-0.00625073,0.99998046,0,0)" />
+  </g>
+  <g inkscape:groupmode="layer" id="layer3" inkscape:label="Dynamic" style="display:inline">
+    <circle andengine-physic="true" andengine-hasshape="true" andengine-bodytype="2" andengine-friction="0.300000011921" andengine-elasticity="0.300000011921" andengine-density="1.0" style="fill:#f30b00;fill-opacity:1;stroke:#00ff00" id="Ball" cx="20" cy="20" r="10" sodipodi:cx="20" sodipodi:cy="20" sodipodi:rx="10" sodipodi:ry="10" andengine-spritesrc="gfx/ball.png" />
+    <!-- <path andengine-fixedrotation="true" andengine-angularvelocity="200" andengine-drawprimitives="true" andengine-physic="true" andengine-hasshape="true" andengine-bodytype="2" andengine-friction="0.300000011921" andengine-elasticity="0.300000011921" andengine-density="1.0" andengine-curvesegments="10" sodipodi:end="5.5273561" sodipodi:start="0.48617268" d="m 260.84823,185.92889 a 40.512249,39.490932 0 1 1 -6.33712,-45.53849 l -29.48088,27.08653 z" sodipodi:ry="39.490932" sodipodi:rx="40.512249" sodipodi:cy="167.47693" sodipodi:cx="225.03023" id="PacMan" style="fill:#ffaaaa;fill-opacity:1;stroke:none" sodipodi:type="arc" andengine-spritesrc="gfx/PacMan_tiled.png" andengine-spritetype="2" andengine-tilecols="4" andengine-tilerows="1" andengine-has-animation="true" andengine-animation-starttile="0" andengine-animation-endtile="3" andengine-animation-duration="3000,30,50,30" /> -->
+  </g>
+</svg>
